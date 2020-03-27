@@ -3,7 +3,10 @@
 ## Default config
 
 ```
-"editor.scrollBeyondLastLine": false
+"git.confirmSync": true,
+"git.enableSmartCommit": true,
+"editor.scrollBeyondLastLine": false,
+"editor.formatOnSave": true
 ```
 
 ## Font
