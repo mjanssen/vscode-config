@@ -1,5 +1,11 @@
 # Default VScode configuration
 
+## Default config
+
+```
+"editor.scrollBeyondLastLine": false
+```
+
 ## Font
 
 [Font installation](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
